@@ -1,0 +1,60 @@
+<img src="https://i.imgur.com/lRzzpEU.png"></img>
+
+<div align="center">
+<h2>
+        YO, wassup
+        <br/>
+</h2>
+<hr>
+</div>
+<hr>
+
+<a href="#">
+    <img src="https://avatars.githubusercontent.com/u/82474669?s=400&u=509537bc1ee4fb1ece87e1e95946c7a9aa53860b&v=4" align="right" width="25%" />
+</a>
+
+<div align="center">
+
+#### About me
+
+</div>
+
+<hr>
+<h3>
+    I'm your local Microwave Oven. I enjoy programming and gaming. <br/>
+    <br/>
+    I also collabed with Quandale Dingle, that was pretty neat. <br/>
+</h3>
+
+#### Languages
+
+<hr>
+<div align="left"> 
+    <code>
+        <img height="70" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
+    </code>
+        &nbsp;
+    <code>
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    </code>
+<br/><br/>
+
+#### Favourite IDE's / Text Editors
+
+<hr>
+<div align="left">
+    <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1">
+    </code>
+         &nbsp;
+    <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mindrops.com%2Fimages%2Ftechnology-icon%2Feclipse-logo.png&f=1&nofb=1">
+    </code>
+    <br/>
+</div>
+
+<h4 align="center">
+  <a href="https://github.com/MicrowaveOven?tab=repositories" title="Show Repositories"> 
+    -- Show More -- 
+ </a>
+</h4>
