@@ -22,7 +22,7 @@
 <h3>
     I'm your local Microwave Oven. I enjoy programming and gaming. <br/>
     <br/>
-    I met Quandale Dingle, which was pretty neat. <br/>
+    I also met Quandale Dingle, which was pretty neat. <br/>
 </h3>
 
 #### Languages
