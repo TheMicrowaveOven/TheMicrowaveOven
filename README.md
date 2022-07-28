@@ -5,7 +5,6 @@
         YO, wassup
         <br/>
 </h2>
-<hr>
 </div>
 <hr>
 
@@ -23,7 +22,7 @@
 <h3>
     I'm your local Microwave Oven. I enjoy programming and gaming. <br/>
     <br/>
-    I also collabed with Quandale Dingle, that was pretty neat. <br/>
+    I met Quandale Dingle, which was pretty neat. <br/>
 </h3>
 
 #### Languages
@@ -54,7 +53,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://github.com/MicrowaveOven?tab=repositories" title="Show Repositories"> 
+  <a href="https://github.com/TheMicrowaveOven?tab=repositories" title="Show Repositories"> 
     -- Show More -- 
  </a>
 </h4>
