@@ -10,7 +10,7 @@
 <hr>
 
 <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/82474669?s=400&u=509537bc1ee4fb1ece87e1e95946c7a9aa53860b&v=4" align="right" width="25%" />
+    <img src="https://avatars.githubusercontent.com/u/110173721?s=400&u=101f1578b2bd20efb7bb7569a562b3e9fd3fe146&v=4" align="right" width="25%" />
 </a>
 
 <div align="center">
